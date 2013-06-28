@@ -1,0 +1,5 @@
+---
+Name: defaultboxcolor
+---
+Image:
+  FaceDetectionBoxColor: '#0000FF'
